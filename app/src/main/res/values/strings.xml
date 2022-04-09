@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Traffic Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_incident">Current Incident</string>
+    <string name="roadworks">Roadworks</string>
+    <string name="planned_roadworks">Planned Roadworks</string>
+</resources>
